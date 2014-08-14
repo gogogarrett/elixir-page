@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="col-lg-6">
+    <h1>
+      <a href="<%= App.Router.root_path %>"> Home </a>
+    </h1>
+  </div>
+  <div class="col-lg-6">
+    <ul class="nav nav-pills pull-right">
+      <li class="active">
+        <a href="<%= App.Router.users_path %>"> Users </a>
+      </li>
+      <li>
+        <a href="<%= App.Router.user_path(id: 1) %>"> User 1 </a>
+      </li>
+      <li>
+        <a href="<%= App.Router.user_path(id: 2) %>"> User 2 </a>
+      </li>
+    </ul>
+  </div>
+</div>

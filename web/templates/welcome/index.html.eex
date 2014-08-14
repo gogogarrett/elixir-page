@@ -1,0 +1,28 @@
+<div class="jumbotron">
+  <h2>Placeholder!</h2>
+  <p class="lead">Stuff will go here.</p>
+</div>
+
+<div class="row marketing">
+  <div class="col-lg-6">
+    <h4>Resources</h4>
+    <ul>
+      <li>
+        <a href="https://github.com/gogogarrett">Github</a>
+      </li>
+      <li>
+        <a href="https://twitter.com/GoGoGarrett">Twitter</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-lg-6">
+    <h4>Things to learn</h4>
+    <ul>
+      <li><a href="">Elixir</a></li>
+      <li><a href="">Ember</a></li>
+      <li><a href="">Docker</a></li>
+    </ul>
+  </div>
+</div>
+
