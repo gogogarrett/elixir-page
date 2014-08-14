@@ -6,6 +6,6 @@ defmodule App.UserController do
   end
 
   def show(conn, %{"id" => id}) do
-    render conn, "show"
+    render conn, "show", id: id
   end
 end

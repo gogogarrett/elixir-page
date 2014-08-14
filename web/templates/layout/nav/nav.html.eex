@@ -6,7 +6,7 @@
   </div>
   <div class="col-lg-6">
     <ul class="nav nav-pills pull-right">
-      <li class="active">
+      <li>
         <a href="<%= App.Router.users_path %>"> Users </a>
       </li>
       <li>

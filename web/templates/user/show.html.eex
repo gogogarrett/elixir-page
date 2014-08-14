@@ -1,1 +1,2 @@
-show.html.eex
+<h1>User <%= @id %></h1>
+show.html.haml
